@@ -97,12 +97,16 @@ Para cada uma das visões, foram geradas as seguintes visualizações:
     5. Filtro para poder limitar quais países deseja ver informações
 
 # 4. Top 3 Insights de dados
+  1. Pode ser investido em cadastrar mais restaurantes das culinárias melhores avaliadas
+  2. Aumentar o número de restaurantes cadastrados em países com boa avaliação média (como Australia e Canada, por exemplo)
+  3. Aumentar a quantidade de restaurantes cadastrados em cidades mais bem avaliadas (como London e Doha, por exemplo)
+  4. 
 # 5. O produto final do projeto
+
+
 # 6. Conclusão
-O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas
-que exibam essas métricas da melhor forma possível para o CEO.
-Da visão da Empresa, podemos concluir que o número de pedidos
-cresceu entre a semana 06 e a semana 13 do ano de 2022.
+O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO da Fome Zero. Das visões criadas, podemos tirar que, apesar de termos uma grande quantidade de restaurantes cadastrados, ainda há muito espaço para expansão em diversas frentes, como falado no item anterior.
+
 # 7. Próximo passos
   1. Reduzir o número de métricas.
   2. 2. Criar novos filtros.
