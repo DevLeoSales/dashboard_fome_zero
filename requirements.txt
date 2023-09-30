@@ -1,6 +1,6 @@
 streamlit
 pandas
-import
-import
+inflection
+folium
 streamlit_folium
 folium.plugins
