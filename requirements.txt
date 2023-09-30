@@ -1,0 +1,6 @@
+streamlit
+pandas
+import
+import
+streamlit_folium
+folium.plugins
