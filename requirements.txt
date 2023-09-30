@@ -3,4 +3,3 @@ pandas
 inflection
 folium
 streamlit_folium
-folium.plugins
