@@ -3,5 +3,4 @@ pandas
 inflection
 folium
 streamlit_folium
-plotly
 plotly.express
