@@ -262,7 +262,7 @@ with st.container():
         # px.figure(facecolor='yellow')
         fig.update_xaxes(showgrid=False)
         fig.update_yaxes(showgrid=False, showticklabels=False)
-        col1.plotly_chart(fig)
+        col1.plotly_chart(fig, use_container_width=True)
     
     with col2:
         # bot melhores culinárias
@@ -296,4 +296,4 @@ with st.container():
         # px.figure(facecolor='yellow')
         fig.update_xaxes(showgrid=False)
         fig.update_yaxes(showgrid=False, showticklabels=False)
-        col2.plotly_chart(fig)
+        col2.plotly_chart(fig, use_container_width=True)
